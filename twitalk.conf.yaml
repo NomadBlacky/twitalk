@@ -1,0 +1,4 @@
+
+player:     /usr/bin/aplay
+dictionary: /usr/local/share/open_talk/open_jtalk_dic_utf_8-1.07/
+voice:      /usr/local/share/hts_voice/MMDAgent_Example-1.4/Voice/mei/mei_normal.htsvoice
